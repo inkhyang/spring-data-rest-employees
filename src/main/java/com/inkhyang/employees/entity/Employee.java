@@ -1,4 +1,4 @@
-package com.inkhyang.employees.domain;
+package com.inkhyang.employees.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
@@ -12,7 +12,4 @@ public class Employee {
     private Long id;
     private String name;
     private String role;
-
-
 }
-

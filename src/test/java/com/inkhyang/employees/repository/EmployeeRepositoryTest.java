@@ -1,6 +1,6 @@
 package com.inkhyang.employees.repository;
 
-import com.inkhyang.employees.domain.Employee;
+import com.inkhyang.employees.entity.Employee;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
